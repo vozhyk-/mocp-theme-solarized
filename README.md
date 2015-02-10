@@ -1,2 +1,6 @@
 # mocp-theme-solarized
-MOC theme for using with a solarized-dark terminal color scheme
+MOC theme for use with a solarized-dark terminal color scheme
+
+## Installation:
+Copy '`solarized`' to `~/.moc/themes`.
+
